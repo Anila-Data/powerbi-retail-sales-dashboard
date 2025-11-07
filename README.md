@@ -27,6 +27,6 @@ Analyze 2023–2024 retail sales data to identify trends, profit drivers, and ye
 - `dashboard_overview.png` – full dashboard screenshot  
 
 **How to View**
-1. Download the `.pbix` file and open in Power BI Desktop  ![Dashboard Preview](dashboard_overview.png)
+1. Download the `.pbix` file and open in Power BI Desktop  
 2. Explore KPIs and interactive filters  
 3. Reset filters anytime using the built-in button
